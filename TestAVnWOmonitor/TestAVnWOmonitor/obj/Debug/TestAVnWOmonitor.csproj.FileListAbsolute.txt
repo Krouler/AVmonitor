@@ -1,0 +1,9 @@
+D:\repos\TestAVnWOmonitor\TestAVnWOmonitor\bin\Debug\TestAVnWOmonitor.exe.config
+D:\repos\TestAVnWOmonitor\TestAVnWOmonitor\bin\Debug\TestAVnWOmonitor.exe
+D:\repos\TestAVnWOmonitor\TestAVnWOmonitor\bin\Debug\TestAVnWOmonitor.pdb
+D:\repos\TestAVnWOmonitor\TestAVnWOmonitor\obj\Debug\TestAVnWOmonitor.csprojAssemblyReference.cache
+D:\repos\TestAVnWOmonitor\TestAVnWOmonitor\obj\Debug\TestAVnWOmonitor.Form1.resources
+D:\repos\TestAVnWOmonitor\TestAVnWOmonitor\obj\Debug\TestAVnWOmonitor.Properties.Resources.resources
+D:\repos\TestAVnWOmonitor\TestAVnWOmonitor\obj\Debug\TestAVnWOmonitor.csproj.GenerateResource.cache
+D:\repos\TestAVnWOmonitor\TestAVnWOmonitor\obj\Debug\TestAVnWOmonitor.exe
+D:\repos\TestAVnWOmonitor\TestAVnWOmonitor\obj\Debug\TestAVnWOmonitor.pdb

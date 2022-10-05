@@ -1,0 +1,6 @@
+D:\repos\TestMonitor\TestMonitor\bin\Debug\TestMonitor.exe.config
+D:\repos\TestMonitor\TestMonitor\bin\Debug\TestMonitor.exe
+D:\repos\TestMonitor\TestMonitor\bin\Debug\TestMonitor.pdb
+D:\repos\TestMonitor\TestMonitor\obj\Debug\TestMonitor.csprojAssemblyReference.cache
+D:\repos\TestMonitor\TestMonitor\obj\Debug\TestMonitor.exe
+D:\repos\TestMonitor\TestMonitor\obj\Debug\TestMonitor.pdb
